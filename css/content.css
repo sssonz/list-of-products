@@ -1,0 +1,41 @@
+body{
+    background: rgb(238, 252, 246);
+}
+#header1{
+    font-size: 38px;
+    color: rgb(29, 70, 37);
+    text-align: center;
+    padding: 30px 0px 0px 0px;
+}
+
+
+.navtext{
+    color: rgb(29, 70, 37);
+	position: relative;
+    text-decoration: none;
+}
+
+.navtext:hover{
+    color:rgb(63, 143, 73);
+  
+}
+
+a:visited{
+    color: rgb(45, 78, 67)
+}
+
+#main{
+    margin-left: 350px;
+    font-size: 20px;
+    border: 1px solid rgb(29, 70, 37);
+    flex: 1;
+    padding: 10px;
+    padding-left: 30px;
+    line-height: 30px;
+}
+
+.list{
+    color:rgb(24, 144, 70);
+    font-size: 25px;
+    line-height: 50px;
+}

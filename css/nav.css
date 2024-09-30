@@ -1,0 +1,19 @@
+nav{
+    background: rgba(207, 244, 218, 0.749);
+    border: 1px solid rgb(29, 70, 37);
+    width: 300px;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 20px;
+    padding: 10px 0px;
+    box-sizing: border-box;
+    opacity: .1;
+    transition: all 0.5s ease;
+    font-size: 20px;
+    color: rgb(29, 70, 37);
+    line-height: 35px;
+}
+nav:hover{
+    opacity: 1;
+    transition: all 0.1s ease;
+}
